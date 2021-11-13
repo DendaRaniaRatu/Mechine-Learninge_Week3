@@ -1,4 +1,4 @@
-# Mechine-Learninge_Week3
+# Mechine-Learning_Week3
 Tugas Mata Kuliah Pembelajaran Mesin TK-42-G6  
 Nama  : Denda Rania Ratu Kelanswara
 NIM   : 1103184072
